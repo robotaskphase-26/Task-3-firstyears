@@ -42,7 +42,7 @@ jupyter notebook
 
 - Include all code, plots, and explanations inside the notebook.
 
-- Push the following files to your private GitHub repository under RoboManipal2025:
+- Push the following files to your private GitHub repository under RoboManipal2026:
 
   - Numpy_Pandas_Task.ipynb
  
