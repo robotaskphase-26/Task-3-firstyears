@@ -74,6 +74,6 @@ YourRepoName/
 * [Matplotlib Tutorial Video](https://youtu.be/c9vhHUGdav0?si=EorNMBaECBV9Uarc)
 
 
-📌 **Deadline:**  **27th october, 11:59 pm**
+📌 **Deadline:**  **25th october, 11:59 pm**
   
   
